@@ -1,0 +1,13 @@
+C:\GGG\tinhsongaytrongthang\bin\Debug\netcoreapp3.1\tinhsongaytrongthang.exe
+C:\GGG\tinhsongaytrongthang\bin\Debug\netcoreapp3.1\tinhsongaytrongthang.deps.json
+C:\GGG\tinhsongaytrongthang\bin\Debug\netcoreapp3.1\tinhsongaytrongthang.runtimeconfig.json
+C:\GGG\tinhsongaytrongthang\bin\Debug\netcoreapp3.1\tinhsongaytrongthang.runtimeconfig.dev.json
+C:\GGG\tinhsongaytrongthang\bin\Debug\netcoreapp3.1\tinhsongaytrongthang.dll
+C:\GGG\tinhsongaytrongthang\bin\Debug\netcoreapp3.1\tinhsongaytrongthang.pdb
+C:\GGG\tinhsongaytrongthang\obj\Debug\netcoreapp3.1\tinhsongaytrongthang.csprojAssemblyReference.cache
+C:\GGG\tinhsongaytrongthang\obj\Debug\netcoreapp3.1\tinhsongaytrongthang.AssemblyInfoInputs.cache
+C:\GGG\tinhsongaytrongthang\obj\Debug\netcoreapp3.1\tinhsongaytrongthang.AssemblyInfo.cs
+C:\GGG\tinhsongaytrongthang\obj\Debug\netcoreapp3.1\tinhsongaytrongthang.csproj.CoreCompileInputs.cache
+C:\GGG\tinhsongaytrongthang\obj\Debug\netcoreapp3.1\tinhsongaytrongthang.dll
+C:\GGG\tinhsongaytrongthang\obj\Debug\netcoreapp3.1\tinhsongaytrongthang.pdb
+C:\GGG\tinhsongaytrongthang\obj\Debug\netcoreapp3.1\tinhsongaytrongthang.genruntimeconfig.cache
